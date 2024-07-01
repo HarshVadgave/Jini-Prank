@@ -1,0 +1,29 @@
+body{
+    font-family: poppins;
+}
+.wishes{
+    display:flex;
+    justify-content: space-evenly;
+}
+#wish{
+height:350px;
+width:300px;
+box-shadow: 2px 2px 2px 4px black;
+background-color: #fff;
+}
+#wish a{
+margin: 0;
+padding: 10px;
+font-family: poppins;
+border-radius: 10px;
+background-color: rgb(13, 114, 222);
+text-decoration: none;
+color: white;
+position: relative;
+left:40%;
+top:20px;
+}
+body h1{
+color: white;
+-webkit-text-stroke: 1px blue;
+}
